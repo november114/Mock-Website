@@ -1,0 +1,121 @@
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+header {
+  border-bottom: 3px solid darkseagreen;
+  height: 110px;
+  margin: 0 auto;
+
+}
+
+header h1 {
+  float: left;
+  display: inline;
+}
+
+
+nav {
+  float: right;
+  font-family: 'Montserrat',sans-serif;
+  color: darkseagreen;
+  font-weight: bold;
+
+
+}
+
+#nav-bar {
+  width: 600px;
+  float: right;
+
+}
+
+header nav ul li {
+    color: darkseagreen;
+    display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: darkseagreen;
+  word-spacing: 12px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: darkseagreen;
+    font-size: 18px;
+}
+
+h3 {
+  font-size: 12px;
+  line-height: 25px;
+}
+
+section {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.full-width {
+  width: 1200px;
+}
+
+.half-width {
+  width: 600px;
+  padding: 8px;
+}
+
+.third-width {
+  width: 361px;
+}
+
+.img img{
+  border-bottom: 3px solid darkseagreen;
+  height:auto;
+}
+
+#info {
+  border: 1px solid gray;
+}
+
+#specials {
+  float: left;
+  color: darkseagreen;
+  padding: 15px 0px;
+}
+
+#script {
+    font-family: 'Dancing Script', cursive;
+    color: darkseagreen;
+    font-size: 20px;
+}
+
+#reviews {
+  float: left;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  padding: 15px;
+}
+
+#contact {
+  float: left;
+  line-height: 5px;
+  padding: 15px;
+}
+
+.footer {
+  width: 1200px;
+  text-align: center;
+  clear: both;
+  border-top: 1px solid gray;
+  font-weight: bold;
+}
